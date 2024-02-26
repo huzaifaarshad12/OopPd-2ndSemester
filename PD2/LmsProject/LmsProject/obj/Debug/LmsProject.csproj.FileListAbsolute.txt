@@ -1,0 +1,14 @@
+C:\semester2\oop\LmsProject\LmsProject\bin\Debug\LmsProject.exe.config
+C:\semester2\oop\LmsProject\LmsProject\bin\Debug\LmsProject.exe
+C:\semester2\oop\LmsProject\LmsProject\bin\Debug\LmsProject.pdb
+C:\semester2\oop\LmsProject\LmsProject\obj\Debug\LmsProject.csproj.AssemblyReference.cache
+C:\semester2\oop\LmsProject\LmsProject\obj\Debug\LmsProject.csproj.CoreCompileInputs.cache
+C:\semester2\oop\LmsProject\LmsProject\obj\Debug\LmsProject.exe
+C:\semester2\oop\LmsProject\LmsProject\obj\Debug\LmsProject.pdb
+D:\Documents\Semester2\Programming Day\week2\LmsProject\LmsProject\LmsProject\bin\Debug\LmsProject.exe.config
+D:\Documents\Semester2\Programming Day\week2\LmsProject\LmsProject\LmsProject\bin\Debug\LmsProject.exe
+D:\Documents\Semester2\Programming Day\week2\LmsProject\LmsProject\LmsProject\bin\Debug\LmsProject.pdb
+D:\Documents\Semester2\Programming Day\week2\LmsProject\LmsProject\LmsProject\obj\Debug\LmsProject.csproj.AssemblyReference.cache
+D:\Documents\Semester2\Programming Day\week2\LmsProject\LmsProject\LmsProject\obj\Debug\LmsProject.csproj.CoreCompileInputs.cache
+D:\Documents\Semester2\Programming Day\week2\LmsProject\LmsProject\LmsProject\obj\Debug\LmsProject.exe
+D:\Documents\Semester2\Programming Day\week2\LmsProject\LmsProject\LmsProject\obj\Debug\LmsProject.pdb
