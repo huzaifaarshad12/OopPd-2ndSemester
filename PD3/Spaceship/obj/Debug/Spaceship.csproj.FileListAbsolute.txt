@@ -1,0 +1,7 @@
+D:\Documents\Semester2\Programming Day\pd3\pd 3\Spaceship\bin\Debug\Spaceship.exe.config
+D:\Documents\Semester2\Programming Day\pd3\pd 3\Spaceship\bin\Debug\Spaceship.exe
+D:\Documents\Semester2\Programming Day\pd3\pd 3\Spaceship\bin\Debug\Spaceship.pdb
+D:\Documents\Semester2\Programming Day\pd3\pd 3\Spaceship\obj\Debug\Spaceship.csproj.AssemblyReference.cache
+D:\Documents\Semester2\Programming Day\pd3\pd 3\Spaceship\obj\Debug\Spaceship.csproj.CoreCompileInputs.cache
+D:\Documents\Semester2\Programming Day\pd3\pd 3\Spaceship\obj\Debug\Spaceship.exe
+D:\Documents\Semester2\Programming Day\pd3\pd 3\Spaceship\obj\Debug\Spaceship.pdb

@@ -1,0 +1,7 @@
+D:\Documents\Semester2\Object oriented programming\lab\Ludo\bin\Debug\Ludo.exe.config
+D:\Documents\Semester2\Object oriented programming\lab\Ludo\bin\Debug\Ludo.exe
+D:\Documents\Semester2\Object oriented programming\lab\Ludo\bin\Debug\Ludo.pdb
+D:\Documents\Semester2\Object oriented programming\lab\Ludo\obj\Debug\Ludo.csproj.AssemblyReference.cache
+D:\Documents\Semester2\Object oriented programming\lab\Ludo\obj\Debug\Ludo.csproj.CoreCompileInputs.cache
+D:\Documents\Semester2\Object oriented programming\lab\Ludo\obj\Debug\Ludo.exe
+D:\Documents\Semester2\Object oriented programming\lab\Ludo\obj\Debug\Ludo.pdb
