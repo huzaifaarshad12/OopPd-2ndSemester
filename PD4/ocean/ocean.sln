@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ocean", "ocean\ocean.csproj", "{B10196C8-CA2C-4F49-A076-70980EC951BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10196C8-CA2C-4F49-A076-70980EC951BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10196C8-CA2C-4F49-A076-70980EC951BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10196C8-CA2C-4F49-A076-70980EC951BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10196C8-CA2C-4F49-A076-70980EC951BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDCE344A-5655-46F8-A361-C17F501A921A}
+	EndGlobalSection
+EndGlobal

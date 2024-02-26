@@ -1,0 +1,7 @@
+F:\semester 2\OOPS Lab\week 5\PD\magicduel\magicduel\bin\Debug\magicduel.exe.config
+F:\semester 2\OOPS Lab\week 5\PD\magicduel\magicduel\bin\Debug\magicduel.exe
+F:\semester 2\OOPS Lab\week 5\PD\magicduel\magicduel\bin\Debug\magicduel.pdb
+F:\semester 2\OOPS Lab\week 5\PD\magicduel\magicduel\obj\Debug\magicduel.csproj.AssemblyReference.cache
+F:\semester 2\OOPS Lab\week 5\PD\magicduel\magicduel\obj\Debug\magicduel.csproj.CoreCompileInputs.cache
+F:\semester 2\OOPS Lab\week 5\PD\magicduel\magicduel\obj\Debug\magicduel.exe
+F:\semester 2\OOPS Lab\week 5\PD\magicduel\magicduel\obj\Debug\magicduel.pdb
