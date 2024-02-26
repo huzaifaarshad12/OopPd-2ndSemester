@@ -1,0 +1,7 @@
+D:\Semester_2\OOP\pd2\pd2\bin\Debug\pd2.exe.config
+D:\Semester_2\OOP\pd2\pd2\bin\Debug\pd2.exe
+D:\Semester_2\OOP\pd2\pd2\bin\Debug\pd2.pdb
+D:\Semester_2\OOP\pd2\pd2\obj\Debug\pd2.csproj.AssemblyReference.cache
+D:\Semester_2\OOP\pd2\pd2\obj\Debug\pd2.csproj.CoreCompileInputs.cache
+D:\Semester_2\OOP\pd2\pd2\obj\Debug\pd2.exe
+D:\Semester_2\OOP\pd2\pd2\obj\Debug\pd2.pdb

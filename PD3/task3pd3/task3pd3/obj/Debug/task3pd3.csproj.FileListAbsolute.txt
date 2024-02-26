@@ -1,0 +1,7 @@
+D:\Semester_2\OOP\task3pd3\task3pd3\obj\Debug\task3pd3.csproj.AssemblyReference.cache
+D:\Semester_2\OOP\task3pd3\task3pd3\obj\Debug\task3pd3.csproj.CoreCompileInputs.cache
+D:\Semester_2\OOP\task3pd3\task3pd3\bin\Debug\task3pd3.exe.config
+D:\Semester_2\OOP\task3pd3\task3pd3\bin\Debug\task3pd3.exe
+D:\Semester_2\OOP\task3pd3\task3pd3\bin\Debug\task3pd3.pdb
+D:\Semester_2\OOP\task3pd3\task3pd3\obj\Debug\task3pd3.exe
+D:\Semester_2\OOP\task3pd3\task3pd3\obj\Debug\task3pd3.pdb
